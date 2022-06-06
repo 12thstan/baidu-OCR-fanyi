@@ -11,7 +11,19 @@ Python 日记 -- 百度 OCR 翻译
 
 ---
 
-# 使用教程
+## 准备工作
+
+1. [登录](https://login.bce.baidu.com/) / [注册](https://passport.baidu.com/v2/?reg) 百度账号
+
+2. 创建 [通用场景OCR](https://console.bce.baidu.com/ai/?_=1654272722032&fromai=1#/ai/ocr/app/create) ，*应用归属* 选择 <code>个人</code> ，*应用名称* 和 *应用描述* **自定义**
+
+3. 填完以上信息后，点击 <code>立即创建</code> **<font size="3" color="red">(注意要实名认证)</font>**
+
+4. 此时，*应用列表* 会出现 **刚创建好的应用** ，分别把 <code>AppID</code> 、 <code>API Key</code> 和 <code>Secret Key</code> **记录好** 等下用
+
+---
+
+## 使用教程
 
 - 打开 <code>new_OCR\dist\OCR.ini</code> 文件，把在 **准备工作** 获取的 <code>AppID</code> 、 <code>API Key</code> 和 <code>Secret Key</code> <font size="3" color="blue">对应填入</font> ， **运行exe文件** 即可
 ```ini
