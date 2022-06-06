@@ -52,8 +52,8 @@ bv =
 ---
 
 # 补充
-> github开源：https://github.com/12thstan/baidu-OCR-fanyi
+> github 开源：https://github.com/12thstan/baidu-OCR-fanyi
 
-> gitee开源：https://gitee.com/c12th/baidu-OCR-fanyi
+> gitee 开源：https://gitee.com/c12th/baidu-OCR-fanyi
 
 > 原文：https://blog.c12th.cn/archives/7.html
